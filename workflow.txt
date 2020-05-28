@@ -1,0 +1,13 @@
+Retrofit basic workflow
+
+1 add dependency for retofit, gson and gson converter
+
+2 make pojo  class
+
+3 apiclient class => retrofit instance
+
+4 api interface => http endpoint
+
+
+
+
